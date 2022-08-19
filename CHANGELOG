@@ -1,0 +1,47 @@
+v4.2.1
+
+- Fix bug when updated forecast
+
+v4.2
+
+- Fixed small bugs
+
+v4.1
+
+- Support runtime permissions for Android 6.0
+- Added translations: Basque, Belarusian, Japanese, Spanish
+- Minor bugfixes
+
+v4.0
+
+- Improved main screen
+- Added forecast
+- Added graphs
+- Fixed small bugs
+
+v3.0
+
+- Added widgets
+- Produced by the redesign of the main screen
+- Fix bug: in some cases the app crashed when it updates the weather
+- Fix bug: the app is not closed by pressing the back button
+
+v2.1
+
+- Support for Android 3.0 (Honeycomb) has ended
+
+v2.0
+
+- Add notifications
+- Update Settings screen
+- Update translations
+
+v1.3
+
+- Change the settings screen
+- Added search location screen
+- Update translations
+
+v1.2
+
+- Add Polish and German translations
